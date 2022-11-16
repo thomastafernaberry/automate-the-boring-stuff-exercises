@@ -1,1 +1,2 @@
-This are my <em>Automate the Boring Stuff</em> with Python exercises
+<h1>Hi.</h1>
+This are my <em>Automate the Boring Stuffwith Python</em> exercises
