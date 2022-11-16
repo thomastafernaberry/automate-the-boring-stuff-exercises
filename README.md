@@ -1,1 +1,1 @@
-This are my Automate the Boring Stuff with Python exercises
+This are my <em>Automate the Boring Stuff</em> with Python exercises
