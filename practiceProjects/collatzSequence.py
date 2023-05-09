@@ -8,6 +8,10 @@ def collatz(number):
             number = 3 * number + 1
     print(number)
 
-input = int(input('Ingrese un número porfavor: '))
+try:
+    input = int(input('Ingrese un número porfavor: '))
+    collatz(input)
+except ValueError:
+    print('Value Error! Did you input a number?')
 
-collatz(input)
+
